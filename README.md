@@ -1,6 +1,6 @@
 # Netztechnik-Gruppe3
 In Abgabe.7z befindet sich das gns3-Projekt sowohl als exportiertes portable, daneben befindet sich auch der Projektordner.
-Hinsichtlich der Firewalleinstellungen hat sich während der Implementierung (im Vergleich zum Entwurf) noch folgendes geändert
+Hinsichtlich der Firewalleinstellungen hat sich während der Implementierung (im Vergleich zum Entwurf) noch folgendes geändert:
 
 -es wird nun doch auch Port 80 (http) erlaubt, da überraschend viele Webseiten noch nicht auf https umgestellt sind
 
@@ -8,4 +8,4 @@ Hinsichtlich der Firewalleinstellungen hat sich während der Implementierung (im
 
 -auf eine Blacklist von Webinhalten wurde verzichtet, da 'Surfen' in den Anforderungen nicht näher eingegrenzt wurde
 
-- Es gibt nur eine Verbdinung zur Firewall, da eine Verbdinung von R1 zur FW und R4 zur FW gleichzeitig nicht möglich war
+-es gibt nur eine Verbindung zur Firewall, da eine Verbdinung von R1 zur FW und R4 zur FW gleichzeitig nicht möglich war
