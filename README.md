@@ -7,3 +7,5 @@ Hinsichtlich der Firewalleinstellungen hat sich während der Implementierung (im
 -auch DNS auf Port 53 wird erlaubt, um Surfen zu ermöglichen
 
 -auf eine Blacklist von Webinhalten wurde verzichtet, da 'Surfen' in den Anforderungen nicht näher eingegrenzt wurde
+
+- Es gibt nur eine Verbdinung zur Firewall, da eine Verbdinung von R1 zur FW und R4 zur FW gleichzeitig nicht möglich war
