@@ -8,4 +8,4 @@ Hinsichtlich der Firewalleinstellungen hat sich während der Implementierung (im
 
 -auf eine Blacklist von Webinhalten wurde verzichtet, da 'Surfen' in den Anforderungen nicht näher eingegrenzt wurde
 
--es gibt nur eine Verbindung zur Firewall, da eine Verbdinung von R1 zur FW und R4 zur FW gleichzeitig nicht möglich war
+-es gibt nur eine Verbindung zur Firewall, da keine Redundanz für die Internetanbindung gefordert war
